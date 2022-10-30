@@ -24,6 +24,9 @@ plugins {
 
   // https://plugins.gradle.org/plugin/com.gradle.plugin-publish
   id "com.gradle.plugin-publish" version "1.0.0"
+
+  //test
+  id "org.docstr.gwt" version "1.1.21"
 }
 
 group = 'org.docstr'
